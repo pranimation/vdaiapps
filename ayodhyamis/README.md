@@ -1,7 +1,7 @@
 # Vdai Bio Sec Pvt Ltd
 App Repo of Vdai Bio Sec Pvt Ltd.
 
-#Ayodhya MIS for village work App 
+# Ayodhya MIS for village work App 
 
 <a id="market-url" href="market://details?id=com.www.misayodhya">Download Ayodhya App From Play Store</a>
 
