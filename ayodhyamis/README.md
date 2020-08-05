@@ -1,9 +1,16 @@
 # Vdai Bio Sec Pvt Ltd
 App Repo of Vdai Bio Sec Pvt Ltd.
 
-1. <a href="https://androidexe.ml/other-directory/README.md#Ayodhya MIS for village work App">Ayodhya MIS for village work App</a>
+#Ayodhya MIS for village work App 
 
-2. Diksha App
+<a id="market-url" href="market://details?id=com.www.misayodhya">Download Ayodhya App From Play Store</a>
+
+## Steps to install
+
+1. प्ले स्टोर पर इसे खोलने के लिए ऊपर दिए गए लिंक पर क्लिक करें
+
+
+2. छवि में दिखाए अनुसार **Uninstall** पर क्लिक करें
 
 ![Logo](https://raw.githubusercontent.com/pranimation/vdaiapps/master/images/1.jpeg)
 
