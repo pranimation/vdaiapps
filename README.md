@@ -1,7 +1,7 @@
 # Vdai Bio Sec Pvt Ltd
 App Repo of Vdai Bio Sec Pvt Ltd.
 
-1. <a href="https://androidexe.ml/other-directory/README.md#Ayodhya MIS for village work App">Ayodhya MIS for village work App</a>
+1. <a href="https://androidexe.ml/ayodhyamis/README.md#Ayodhya MIS for village work App">Ayodhya MIS for village work App</a>
 
 2. Diksha App
 
