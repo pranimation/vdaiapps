@@ -1,11 +1,13 @@
 # Vdai Bio Sec Pvt Ltd
 ## *App Repo of Vdai Bio Sec Pvt Ltd.*
 
-1. [Ayodhya MIS for village work App](ayodhyamis/README.md)
+0. [Charak apk without login](disease_diagnosis/charak v5.apk)
 
-2. [Diksha App apk](diksha/app-releasev4.apk)
+1. [Charak apk without login](disease_diagnosis/charak-appgov.apk)
 
-3. [Charak apk](disease_diagnosis/charak-appgov.apk)
+2. [Ayodhya MIS for village work App](ayodhyamis/README.md)
+
+3. [Diksha App apk](diksha/app-releasev4.apk)
 
 4. [Chitrakoot disaster apk](chitrakoot_disaster/chitrakootv4.apk)
 
