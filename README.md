@@ -1,7 +1,7 @@
 # Vdai Bio Sec Pvt Ltd
 ## *App Repo of Vdai Bio Sec Pvt Ltd.*
 
-0. [Charak apk without login](disease_diagnosis/charak v5.apk)
+0. [Charak apk for govt](disease_diagnosis/charak v5.apk)
 
 1. [Charak apk without login](disease_diagnosis/charak-appgov.apk)
 
