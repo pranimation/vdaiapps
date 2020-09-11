@@ -7,10 +7,11 @@
 
 2. [Ayodhya MIS for village work App](ayodhyamis/README.md)
 
-3. [Diksha App apk](diksha/app-releasev4.apk)
+3. [Diksha App apk](diksha/com.test.tvapp-8.0-8-release.apk)
 
 4. [Chitrakoot disaster apk](chitrakoot_disaster/chitrakootv4.apk)
 
 5. [Tata Moters Chinddwara Apk](tmc/tmcv3.apk)
+
 6. [Gocart Ecom Apk](gocart/maidv6.apk)
 
