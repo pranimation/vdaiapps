@@ -13,5 +13,9 @@
 
 5. [Tata Moters Chinddwara Apk](tmc/tmcv3.apk)
 
-6. [Gocart Ecom Apk](gocart/maidv6.apk)
+6. [Gocart Ecom Apk](gocart/maidv6.apk))
+
+7. [Kisaan App Apk](kisaan/app_release.apk)
+
+8. [Annyodaya Customer App](kisaan/frontend/app-release.apk)
 
