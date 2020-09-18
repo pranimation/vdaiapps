@@ -15,7 +15,7 @@
 
 6. [Gocart Ecom Apk](gocart/maidv6.apk))
 
-7. [Kisaan App Apk](kisaan/app_release.apk)
+7. [Kisaan App Apk](grocery/kisaan/com.vdai.anyodayakisaan-4.0.3-35-release.apk)
 
-8. [Annyodaya Customer App](kisaan/frontend/app-release.apk)
+8. [Annyodaya Customer App](grocery/frontend/app-release.apk)
 
