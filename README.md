@@ -19,3 +19,5 @@
 
 8. [Annyodaya Customer App](grocery/frontend/app-release.apk)
 
+9. [Ayodhya NRC](ayodhyamis/ayodhya-nrcv2.apk)
+
