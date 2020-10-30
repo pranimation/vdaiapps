@@ -21,6 +21,6 @@
 
 9. [Ayodhya NRC](ayodhyamis/ayodhya-nrcv2.apk)
 
-10. [Ayodhya NRC](ayodhyamis/map_geo.apk)
+10. [Building Geolocation](ayodhyamis/map_geo.apk)
 
 
