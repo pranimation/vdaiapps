@@ -19,8 +19,12 @@
 
 8. [Annyodaya Customer App](grocery/frontend/app-release.apk)
 
-9. [Ayodhya NRC](ayodhyamis/ayodhya-nrcv2.apk)
+9. [Ayodhya NRC](ayodhyamis/nrcapprelease.apk)
 
 10. [Building Geolocation](ayodhyamis/map_geo.apk)
+
+11. [Road Tag](sidnagar/sidroad.apk)
+
+12. [Building tag](sidnagar/sidbuild.apk)
 
 
