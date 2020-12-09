@@ -27,6 +27,10 @@
 
 12. [Building tag](sidnagar/sidbuild.apk)
 
+13. [kanpur nagar nigam legal](knn/knn-legal.apk)
+
+14. [kanpur nagar nigam phone](knn/knn-phone.apk)
+
 
 
 
