@@ -1,9 +1,17 @@
 # Vdai Bio Sec Pvt Ltd
 ## *App Repo of Vdai Bio Sec Pvt Ltd.*
 
+-1. [RSBK UP](rbsk_up/rbsk_up.apk)
 
+0. [Charak apk for govt](disease_diagnosis/charakv5.apk)
+
+1. [Disease Diagnosis on Google Play](https://play.google.com/store/apps/details?id=com.vdai.ddia)
 
 2. [Ayodhya MIS for village work App](ayodhyamis/README.md)
+
+2.1 [Siddarth Nagar Road Addressable System](https://play.google.com/store/apps/details?id=com.vdai.sidroad)
+
+2.2 [Siddharthnagar Hospital Attendance](https://play.google.com/store/apps/details?id=com.vdai.sidhbuild)
 
 3. [Diksha App apk](diksha/com.test.tvapp-8.0-8-release.apk)
 
