@@ -1,11 +1,7 @@
 # Vdai Bio Sec Pvt Ltd
 ## *App Repo of Vdai Bio Sec Pvt Ltd.*
 
--1. [RSBK UP](rbsk_up/rbsk_up.apk)
 
-0. [Charak apk for govt](disease_diagnosis/charakv5.apk)
-
-1. [Charak apk without login](disease_diagnosis/charak-appgov.apk)
 
 2. [Ayodhya MIS for village work App](ayodhyamis/README.md)
 
