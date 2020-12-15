@@ -11,7 +11,7 @@
 
 2.1 [Siddarth Nagar Road Addressable System](https://play.google.com/store/apps/details?id=com.vdai.sidroad)
 
-2.2 [Siddharthnagar Hospital Attendance](https://play.google.com/store/apps/details?id=com.vdai.sidhbuild)
+2.2 [Siddharthnagar Hospital Attendance](sidnagar/sidbuild.apk)
 
 3. [Diksha App apk](diksha/com.test.tvapp-8.0-8-release.apk)
 
