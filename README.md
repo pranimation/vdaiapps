@@ -9,7 +9,7 @@
 
 2. [Ayodhya MIS for village work App](ayodhyamis/README.md)
 
-2.1 [Siddarth Nagar Road Addressable System](https://play.google.com/store/apps/details?id=com.vdai.sidroad)
+2.1 [Siddarth Nagar Road Addressable System](sidnagar/sidroad.apk)
 
 2.2 [Siddharthnagar Hospital Attendance](sidnagar/sidbuild.apk)
 
