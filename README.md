@@ -1,6 +1,6 @@
 # Vdai Bio Sec Pvt Ltd
 ## *App Repo of Vdai Bio Sec Pvt Ltd.*
-
+-2 [Cattle](ayodhyamis/cattle_permission.apk)
 -1. [RSBK UP](rbsk_up/rbsk_up.apk)
 
 0. [Charak apk for govt](disease_diagnosis/charakv5.apk)
