@@ -16,7 +16,7 @@
 
 2.1 [Siddarth Nagar Road Addressable System](sidnagar/sidroad.apk)
 
-2.2 [Siddharthnagar Human Capital](sidnagar/sidbuild_map.apk)
+
 
 3. [Diksha App apk](diksha/com.test.tvapp-8.0-8-release.apk)
 
