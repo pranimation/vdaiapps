@@ -1,13 +1,13 @@
 # Vdai Bio Sec Pvt Ltd
 ## *App Repo of Vdai Bio Sec Pvt Ltd.*
 
-1 [SONBHADRA](knn/sonbharda.apk)
+1. [SONBHADRA](knn/sonbharda.apk)
 
-2 [Jaunpur](knn/jaunpur app.apk)
+2. [Jaunpur](knn/jaunpur app.apk)
 
-3 [Cattle](ayodhyamis/cattle_permission.apk)
+3. [Cattle](ayodhyamis/cattle_permission.apk)
 
-4 [RSBK UP](rbsk_up/rbsk_up.apk)
+4. [RSBK UP](rbsk_up/rbsk_up.apk)
 
 5. [Charak apk for govt](disease_diagnosis/charakv5.apk)
 
