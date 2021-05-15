@@ -33,8 +33,6 @@
 
 16. [Ayodhya NRC](ayodhyamis/ayodhya_nrc_new.apk)
 
-17. [Road Tag](sidnagar/sidroad.apk)
-
 18. [Building tag](sidnagar/sidbuild.apk)
 
 19. [kanpur nagar nigam legal](knn/knn-legal.apk)
