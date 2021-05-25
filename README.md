@@ -3,7 +3,7 @@
 
 1. [SONBHADRA](knn/sonbharda.apk)
 
-2. [Jaunpur](knn/jaunpur app.apk)
+2. [Jaunpur](knn/jaunpurapp.apk)
 
 3. [Cattle](ayodhyamis/cattle_permission.apk)
 
@@ -42,6 +42,8 @@
 21. [Kanpur Water Body](ayodhyamis/com.www.misknp-4.0.3-35-release.apk)
 
 22. [Mahoba](grocery/frontend/mahoba.apk)
+
+23. [Jalaun App](jalaun/com.vdai.jalaunkit-v0(0.1.1)-release.apk)
 
 
 
