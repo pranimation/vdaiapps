@@ -41,7 +41,7 @@
 
 21. [Kanpur Water Body](ayodhyamis/com.www.misknp-4.0.3-35-release.apk)
 
-22. [Mahoba](grocery/frontend/mahoba.apk)
+22. [Mahoba](grocery/frontend/organicMahoba.apk)
 
 23. [Jalaun App](jalaun/com.vdai.jalaunkit-v0(0.1.1)-release.apk)
 
