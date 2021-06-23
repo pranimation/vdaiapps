@@ -45,6 +45,8 @@
 
 23. [Jalaun App](jalaun/com.vdai.jalaunkit-v0(0.1.1)-release.apk)
 
+24. [mahoba clean init](jalaun/mahoba.apk)
+
 
 
 
