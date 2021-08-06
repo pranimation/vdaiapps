@@ -45,7 +45,7 @@
 
 23. [Jalaun App](jalaun/com.vdai.jalaunkit-v0(0.1.1)-release.apk)
 
-24. [mahoba clean init](jalaun/mahoba.apk)
+24. [mahoba clean init](jalaun/mahoba_clean_v4.apk)
 
 25. [Mahoba Kisaan](grocery/kisaan/com.vdai.mahobakisaan-1.0.0-1-release.apk)
 
