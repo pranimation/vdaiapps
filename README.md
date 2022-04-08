@@ -1,6 +1,6 @@
 # Vdai Bio Sec Pvt Ltd
 ## *App Repo of Vdai Bio Sec Pvt Ltd.*
-
+0. 5. [Charak apk for govt](disease_diagnosis/charak.apk)
 1. [SONBHADRA](knn/sonbharda.apk)
 
 2. [Jaunpur](knn/jaunpurapp.apk)
